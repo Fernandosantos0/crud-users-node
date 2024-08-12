@@ -1,0 +1,10 @@
+{
+  "name": "crud-users-node",
+  "version": "1.0.0",
+  "description": "CRUD de cadastro de usuários do sistema",
+  "main": "index.js",
+  "repository": "https://github.com/Fernandosantos0/crud-users-node",
+  "author": "Fernando Santos <92190031+Fernandosantos0@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
